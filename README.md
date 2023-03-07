@@ -5,7 +5,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2000&color=FCB33A&lines=Full-Stack+Web+Developer)
 
 - 🔭 A passionate full stack developer from palestine
-- 🌱 I am studying at the University College of Applied Sciences (UCAS)
+- 🌱 I am studying at the University College of Applied Sciences. I have a diploma with distinction
 - 👯 My e-mail address is web.developer.sari@gmail.com
 - 🥅 2023 Goals: Learn more about web
   <br />
